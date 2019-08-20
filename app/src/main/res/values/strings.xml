@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tab_text_1">Action</string>
+    <string name="tab_text_2">Drama</string>
+    <string name="tab_text_3">Adventure</string>
+    <string name="tab_text_4">Comedy</string>
+</resources>
